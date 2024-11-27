@@ -1,0 +1,23 @@
+.text-box{
+    margin: 20px;
+}
+
+.caixa-de-texto{
+width: 300px;
+height: 30px;
+border-radius: 50px;
+padding: 10px;
+}
+
+.pré-infos{
+    margin-bottom: 40px;
+}
+
+.dica{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.voltar{
+    margin-top: 50px;
+}
